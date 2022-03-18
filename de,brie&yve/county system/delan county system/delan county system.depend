@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647592530 source:c:\users\student\documents\de,brie&yve\county system\delan county system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
