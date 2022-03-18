@@ -87,9 +87,6 @@ void execute_action(int action) {
     case 4:
         printf("adding a new Book\n");
         break;
-    case 5;
-        close();
-        break;
     default:
         printf("Invalid action.\n");
     }
@@ -112,11 +109,9 @@ void view_patrons() {
 
     fclose(fp);
 }
-
-void close () {
-printf("Thank you for using me.\n");
-Printf("created by whoever.\n");
-sleep(2500);
-exit(0);
-
+void close(){
+      printf("Thank you for using me.\n");
+      printf("Created by Antony\n");
+      Sleep(2000);
+      exit(0);
 }
