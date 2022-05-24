@@ -111,7 +111,7 @@ void view_patrons() {
 }
 void close(){
       printf("Thank you for using me.\n");
-      printf("Created by Antony\n");
+      printf("Created by Delan\n");
       Sleep(2000);
       exit(0);
 }
